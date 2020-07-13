@@ -1,6 +1,6 @@
 package com.tanhyeon.milcalculator;
-import java.text.SimpleDateFormat;
-import java.util.Scanner;
+//import java.text.SimpleDateFormat;
+//import java.util.Scanner;
 class Main {
 	public static void main(String[] args) {
 

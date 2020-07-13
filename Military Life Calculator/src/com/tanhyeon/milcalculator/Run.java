@@ -1,7 +1,7 @@
 package com.tanhyeon.milcalculator;
 
-import java.text.SimpleDateFormat;
-import java.util.Scanner;
+//import java.text.SimpleDateFormat;
+//import java.util.Scanner;
 class Run {
 	private String name;
 	private int sy, sm, sd, ey, em, ed;
