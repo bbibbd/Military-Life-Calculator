@@ -2,7 +2,7 @@ package com.tanhyeon.milcalculator;
 
 import java.util.Calendar;
 
-public class DayCalculator{
+public class DayCalculator{		
 
 	public String addDays(int days){
 		Calendar now = Calendar.getInstance();

@@ -1,11 +1,13 @@
 package com.tanhyeon.milcalculator;
+
+
 //import java.text.SimpleDateFormat;
 //import java.util.Scanner;
 class Main {
 	public static void main(String[] args) {
 
 
-		Run rrr = new Run("¾Æ¹«³ª", 2019, 4, 1, 2020, 10, 20);
+		//Run rrr = new Run("¾Æ¹«³ª", 2019, 4, 1, 2020, 10, 20);
 		Run gibeom = new Run("±è±â¹ü", 2019, 4, 1, 2020, 11, 2);
 		//Run jinwoo = new Run("±èÁø¿ì", 2018, 12, 17, 2020, 7, 27);
 		//Run jaewook = new Run("ÇüÀç¿í",2019,1,7,2020,8,14);    
@@ -20,7 +22,7 @@ class Main {
 		//Run yoonjae = new Run("Á¤À±Á¦", 2019, 5, 27, 2020, 12, 25);
 		//Run mimmam = new Run("¹Ò¹Ò¸¾", 2019, 4, 8, 2020, 11, 9);
 
-		rrr.calculating();
+		//rrr.calculating();
 		//jinwoo.calculating();
 		//jaewook.calculating();
 		//woohyeok.calculating();
